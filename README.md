@@ -1,5 +1,6 @@
 # Deep Learning Tutorial for Beginners
 주소: https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners
+
 텐서 튜토리얼: https://www.kaggle.com/pouryaayria/convolutional-neural-networks-tutorial-tensorflow
 
 ## Intro
